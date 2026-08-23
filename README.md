@@ -32,25 +32,24 @@ I'm Alok Raj, an aspiring AI/ML Engineer and M.S. student at IIT Patna. I'm pass
 - 🗄️ SQL and Database Management
 - 🐍 Python for AI/ML Applications
 
-## 🌟 Featured Project
+## 📂 Current Repositories
 
-### 🧠 Machine Learning Classification
+### 🌾 [FarmBuddy-AI](https://github.com/alokrajgit5/FarmBuddy-AI)
+Smart farming management system focused on seed trading, machinery rental, weather forecasting, and data-driven decision support.
 
-A machine learning classification project focused on building and evaluating classification models using Python and Scikit-learn.
+**Tech:** Python • FastAPI • SQL • Pandas • NumPy • Matplotlib
 
-**Key Areas:**
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Classification Algorithms
-- Model Training & Evaluation
-- Accuracy, Precision, Recall & F1-Score
-- Confusion Matrix
-- Performance Comparison
+### 🏠 [House-Price-Prediction](https://github.com/alokrajgit5/House-Price-Prediction)
+Machine learning project that predicts house prices using structured housing data with data preprocessing, feature engineering, and regression models.
 
-**Tech Stack:** Python • Pandas • NumPy • Matplotlib • Scikit-learn
+**Tech:** Python • Pandas • NumPy • MySQL • Scikit-learn
 
----
+### 🔐 [Network-Vulnerability-Scanner](https://github.com/alokrajgit5/Network-Vulnerability-Scanner)
+Python-based network security project for authorized port scanning, service identification, banner collection, risk classification, and security reporting.
+
+**Tech:** Python • Socket Programming • Linux • Networking
+
+
 
 ## 🌐 Socials
 
@@ -63,9 +62,24 @@ A machine learning classification project focused on building and evaluating cla
 
 ![](https://github-profile-trophy.vercel.app/?username=alokrajgit5&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=alokrajgit5&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=alokrajgit5&theme=blue_navy&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=alokrajgit5&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=alokrajgit5&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+[![](https://komarev.com/ghpvc/?username=alokrajgit5&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
